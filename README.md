@@ -21,5 +21,10 @@ PRBS Generator + Seed: https://www.edaplayground.com/x/aARR </br>
 Asynchronous Memory: https://www.edaplayground.com/x/BpRK </br>
 Synchronous Memory - Behavioral: https://www.edaplayground.com/x/FyBc </br>
 Synchronous Dual Port Memory: https://www.edaplayground.com/x/dwt8 </br>
+Quad Instance Memory: https://www.edaplayground.com/x/V9_H </br>
 
 Finite State Machine: https://www.edaplayground.com/x/J8JA </br>
+Elevator (FSM): https://www.edaplayground.com/x/QGzp </br>
+Railway Crossing (FSM): https://www.edaplayground.com/x/nQvd </br>
+
+Synchronous FIFO: https://www.edaplayground.com/x/pVUQ </br>
