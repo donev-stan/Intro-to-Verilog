@@ -27,4 +27,6 @@ Finite State Machine: https://www.edaplayground.com/x/J8JA </br>
 Elevator (FSM): https://www.edaplayground.com/x/QGzp </br>
 Railway Crossing (FSM): https://www.edaplayground.com/x/nQvd </br>
 
+Pipeline: https://www.edaplayground.com/x/jVmH </br>
+
 Synchronous FIFO: https://www.edaplayground.com/x/pVUQ </br>
