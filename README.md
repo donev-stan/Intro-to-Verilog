@@ -19,7 +19,7 @@ PRBS Generator: https://www.edaplayground.com/x/pbpd </br>
 PRBS Generator + Seed: https://www.edaplayground.com/x/aARR </br>
 
 Asynchronous Memory: https://www.edaplayground.com/x/BpRK </br>
-Synchronous Memory - Behavioral: https://www.edaplayground.com/x/FyBc </br>
+Synchronous Memory (Behavioral): https://www.edaplayground.com/x/FyBc </br>
 Synchronous Dual Port Memory: https://www.edaplayground.com/x/dwt8 </br>
 Quad Instance Memory: https://www.edaplayground.com/x/V9_H </br>
 
@@ -29,4 +29,9 @@ Railway Crossing (FSM): https://www.edaplayground.com/x/nQvd </br>
 
 Pipeline: https://www.edaplayground.com/x/jVmH </br>
 
-Synchronous FIFO: https://www.edaplayground.com/x/pVUQ </br>
+Synchronous FIFO (extra reg): https://www.edaplayground.com/x/pVUQ </br>
+Synchronous FIFO (extra bit): https://www.edaplayground.com/x/95v9 </br>
+
+FIFO Verification Environment & Coverage: https://www.edaplayground.com/x/KKgk </br>
+
+UVM FIFO Testbench: </br>
