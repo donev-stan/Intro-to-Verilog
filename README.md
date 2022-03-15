@@ -33,5 +33,3 @@ Synchronous FIFO (extra reg): https://www.edaplayground.com/x/pVUQ </br>
 Synchronous FIFO (extra bit): https://www.edaplayground.com/x/95v9 </br>
 
 FIFO Verification Environment & Coverage: https://www.edaplayground.com/x/KKgk </br>
-
-UVM FIFO Testbench: </br>
